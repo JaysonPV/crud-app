@@ -28,6 +28,7 @@ API CRUD conteneurisée pour la gestion des utilisateurs. Production-ready avec 
 ### Démarrage
 1. Dézipper le projet et aller dans le dossier :  
 ```bash
+git clone git@github.com:JaysonPV/crud-app.git
 cd crud-api
 docker-compose up --build
 ```
